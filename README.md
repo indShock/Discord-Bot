@@ -19,3 +19,5 @@
 1. Встановіть залежності:
 ```bash
 pip install -r requirements.txt
+
+[https://discord.com/oauth2/authorize?client_id=1412096558723236063&permissions=3942842523711558&integration_type=0&scope=bot,Запрошення бота]
